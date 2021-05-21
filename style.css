@@ -74,7 +74,7 @@ text-align:left;
 #features::before{
     content: "";
     position: absolute;
-    background: url('./img/indian-rupee.jpg') no-repeat center center/cover;
+    background: url('./img/world-bank.jpg') no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 620px;
